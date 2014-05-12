@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\SaveLoad.cs">
+    <Files>
+      <File FileName="Assets\Script\Interface.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SaveLoad.cs" Line="280" Column="20" />
+      <File FileName="C:\Users\Marie\Documents\MapEditor\Assets\Scripts\SaveLoad.cs" Line="275" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

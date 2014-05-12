@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 238f9d7a9e3ded144a433dfc7fe58092
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Gizmo:ArrowX
+    100004: Gizmo:ArrowY
+    100006: Gizmo:ArrowZ
+    100008: Gizmo:WheelX
+    100010: Gizmo:WheelY
+    100012: Gizmo:WheelZ
+    100014: Gizmo2:ArrowX
+    100016: Gizmo2:ArrowY
+    100018: Gizmo2:ArrowZ
+    100020: Gizmo2:WheelX
+    100022: Gizmo2:WheelY
+    100024: Gizmo2:WheelZ
+    400000: //RootNode
+    400002: Gizmo:ArrowX
+    400004: Gizmo:ArrowY
+    400006: Gizmo:ArrowZ
+    400008: Gizmo:WheelX
+    400010: Gizmo:WheelY
+    400012: Gizmo:WheelZ
+    400014: Gizmo2:ArrowX
+    400016: Gizmo2:ArrowY
+    400018: Gizmo2:ArrowZ
+    400020: Gizmo2:WheelX
+    400022: Gizmo2:WheelY
+    400024: Gizmo2:WheelZ
+    2300000: Gizmo:ArrowX
+    2300002: Gizmo:ArrowY
+    2300004: Gizmo:ArrowZ
+    2300006: Gizmo:WheelX
+    2300008: Gizmo:WheelY
+    2300010: Gizmo:WheelZ
+    2300012: Gizmo2:ArrowX
+    2300014: Gizmo2:ArrowY
+    2300016: Gizmo2:ArrowZ
+    2300018: Gizmo2:WheelX
+    2300020: Gizmo2:WheelY
+    2300022: Gizmo2:WheelZ
+    3300000: Gizmo:ArrowX
+    3300002: Gizmo:ArrowY
+    3300004: Gizmo:ArrowZ
+    3300006: Gizmo:WheelX
+    3300008: Gizmo:WheelY
+    3300010: Gizmo:WheelZ
+    3300012: Gizmo2:ArrowX
+    3300014: Gizmo2:ArrowY
+    3300016: Gizmo2:ArrowZ
+    3300018: Gizmo2:WheelX
+    3300020: Gizmo2:WheelY
+    3300022: Gizmo2:WheelZ
+    4300000: Gizmo:ArrowZ
+    4300002: Gizmo:ArrowY
+    4300004: Gizmo:ArrowX
+    4300006: Gizmo:WheelZ
+    4300008: Gizmo:WheelY
+    4300010: Gizmo:WheelX
+    4300012: Gizmo2:ArrowZ
+    4300014: Gizmo2:ArrowY
+    4300016: Gizmo2:ArrowX
+    4300018: Gizmo2:WheelZ
+    4300020: Gizmo2:WheelY
+    4300022: Gizmo2:WheelX
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

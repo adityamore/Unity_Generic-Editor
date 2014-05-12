@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameObject>
+  <Object Name="CurveLeft">
+    <Position_X>2.71419</Position_X>
+    <Position_Y>0.6120805</Position_Y>
+    <Position_Z>-2.197425</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>1.001791E-05</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="CurveLeft">
+    <Position_X>1.509985</Position_X>
+    <Position_Y>0.9181207</Position_Y>
+    <Position_Z>-0.980289</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>270</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="CurveLeft">
+    <Position_X>2.714191</Position_X>
+    <Position_Y>1.836241</Position_Y>
+    <Position_Z>2.645253</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>3.733867E-05</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="CurveRight">
+    <Position_X>0.2928505</Position_X>
+    <Position_Y>1.224161</Position_Y>
+    <Position_Z>0.2239151</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>1.001791E-05</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="CurveRight">
+    <Position_X>1.497054</Position_X>
+    <Position_Y>0.3060402</Position_Y>
+    <Position_Z>-3.401628</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>90.0000839</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="CurveRight">
+    <Position_X>1.497055</Position_X>
+    <Position_Y>1.530201</Position_Y>
+    <Position_Z>1.441051</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>90.0000839</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="Start">
+    <Position_X>0.2928503</Position_X>
+    <Position_Y>0</Position_Y>
+    <Position_Z>-4.618764</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>0</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="Finish">
+    <Position_X>2.713649</Position_X>
+    <Position_Y>1.82194412</Position_Y>
+    <Position_Z>3.821062</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>3.7338672E-05</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+</GameObject>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameObject>
+  <Object Name="Finish">
+    <Position_X>0</Position_X>
+    <Position_Y>0</Position_Y>
+    <Position_Z>0</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>180.000015</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="CurveLeft">
+    <Position_X>16.5578</Position_X>
+    <Position_Y>2.295302</Position_Y>
+    <Position_Z>-16.73562</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>90.0000839</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="CurveLeft">
+    <Position_X>33.29342</Position_X>
+    <Position_Y>4.590603</Position_Y>
+    <Position_Z>-0.1778166</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>0</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="CurveRight">
+    <Position_X>49.85123</Position_X>
+    <Position_Y>6.885905</Position_Y>
+    <Position_Z>16.5578</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>90.0000839</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="Down">
+    <Position_X>57.4472</Position_X>
+    <Position_Y>10.97358</Position_Y>
+    <Position_Z>16.55779</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>90.0000839</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="Start">
+    <Position_X>65.12531</Position_X>
+    <Position_Y>10.9608221</Position_Y>
+    <Position_Z>16.5577888</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>90.00003</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+</GameObject>

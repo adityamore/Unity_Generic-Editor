@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<element>
+	<Spawn_object type="toggle">Spawn object</Spawn_object> <!-- object spawner -->
+	<Departure_arrival type="toggle">Departure/Arrival</Departure_arrival> <!-- begin and end -->
+	<Obstacle_list type="toggle">Obstacle list</Obstacle_list> <!-- list of obstacle to disturbe player -->
+	<Ennemy_way type="toggle">Ennemy way</Ennemy_way> <!-- Draw ennemy path-->
+	<Piece_of_ground type="toggle">Piece of ground</Piece_of_ground> <!-- Several pieces to build the ground -->
+	<Save type="button">Save</Save> <!-- Save current ground (on XML ?) -->
+	<Load type="button">Load</Load> <!-- Load another ground (on XML ?) -->
+</element>

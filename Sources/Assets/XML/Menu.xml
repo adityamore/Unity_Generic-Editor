@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+	
+	<group type="toggle" content="Spawn object"></group> <!-- object spawner -->
+	
+	<group type="toggle" content="Departure/Arrival"> <!-- begin and end -->
+		<element prefab="Start">Start</element>
+		<element prefab="Finish">Finish</element>
+	</group>
+	
+	<group type="toggle" content="Obstacle list"> <!-- list of obstacle to disturbe player -->
+		<element>Tree</element>
+		<element>Stone</element>
+	</group>
+	
+	<group type="toggle" content="Ennemy way">	<!-- Draw ennemy path-->
+			<element>Way</element>
+	</group>
+
+	<group type="toggle" content="Piece of ground"> <!-- Several pieces to build the ground -->
+		<element prefab="CurveLeft">Curve Left</element>
+		<element prefab="CurveRight">Curve Right</element>
+		<element prefab="Down">Down</element>
+		<element prefab="Simple">Simple</element>
+		<element prefab="Sky">Sky</element>
+		<element prefab="StepDown">Step Down</element>
+		<element prefab="StepUp">Step Up</element>
+		<element prefab="Table">Table</element>
+		<element prefab="Whoops">Whoops</element>
+		<element prefab="WuTang">Wu Tang</element>
+		<element prefab="X">X</element>
+	</group>
+	
+	<group type="button" content="Save/Load"></group> <!-- Save and Load current ground in XML -->
+</menu>

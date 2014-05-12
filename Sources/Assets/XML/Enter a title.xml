@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameObject>
+  <Object Name="mysterious_prefab">
+    <Position_X>-7.29661846</Position_X>
+    <Position_Y>0</Position_Y>
+    <Position_Z>-4.71363735</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>0</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="mysterious_prefab">
+    <Position_X>-7.02710772</Position_X>
+    <Position_Y>0</Position_Y>
+    <Position_Z>-9.604499</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>0</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="mysterious_prefab">
+    <Position_X>0.890099049</Position_X>
+    <Position_Y>0</Position_Y>
+    <Position_Z>-10.3066263</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>0</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="mysterious_prefab">
+    <Position_X>9.354413</Position_X>
+    <Position_Y>0</Position_Y>
+    <Position_Z>8.060413</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>0</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+  <Object Name="mysterious_prefab">
+    <Position_X>-3.41348529</Position_X>
+    <Position_Y>0</Position_Y>
+    <Position_Z>-10.2056408</Position_Z>
+    <Rotation_X>0</Rotation_X>
+    <Rotation_Y>0</Rotation_Y>
+    <Rotation_Z>0</Rotation_Z>
+  </Object>
+</GameObject>
